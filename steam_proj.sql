@@ -230,10 +230,7 @@ WHERE
     b.method = 'play'
 GROUP BY b.player_id
 ORDER BY a.purchases DESC;
-    
 
+-- deleting the created database
     
-    
-
-
-  
+DROP DATABASE IF EXISTS steam_games;
