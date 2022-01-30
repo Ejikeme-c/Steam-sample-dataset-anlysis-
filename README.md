@@ -8,6 +8,8 @@
    
    The highest amount of purchases made by 1 player was 1075 and the highest average time spent playing all the games combined is 11754hrs 
    
+   By just looking at the too scatter plots you can tell there is little to no correlation between the 2 metrics in both scatter plots but to further prove this i calculated the correlation coefficient for both and the values are as follows: for the CORREL for the games scatter plot is aprox 0.16 and for the one with the player details is -0.03
+   
    I do not know the time frame for the recorded data because it was not specified.
    
    I also uploaded the original csv file (steam-200k) and some csv files which i created to perform the analysis. 
